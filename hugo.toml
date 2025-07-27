@@ -1,4 +1,4 @@
-baseURL = "https://lightbi-beta-demo.netlify.app/"
+baseURL = "https://lighbi-blog-mode.netlify.app/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 languageCode = "en"
